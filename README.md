@@ -1,3 +1,3 @@
-Modularization in-progress...
+Modularization in-progress.
 
-README to be added shortly.
+README to be added shortly!
